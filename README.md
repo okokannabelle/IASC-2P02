@@ -8,4 +8,4 @@ I am a third year Brock student in my second year of the IASC program. This is m
 
 ## Blog Post
 
-First sentence of blog post goes here
+First sentence of blog post goes here [continue reading](blog)
