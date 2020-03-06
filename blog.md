@@ -7,3 +7,11 @@ Vivamus viverra enim elit, ut dapibus arcu imperdiet quis. Sed molestie magna ve
 Aliquam ornare mauris nulla, eu maximus leo vestibulum in. Nam eget suscipit nibh, eu pulvinar velit. Duis semper sodales ultrices. Nulla semper ipsum eu est scelerisque, a ullamcorper nisi hendrerit. Fusce pharetra urna a sem dictum auctor. Phasellus scelerisque lobortis dapibus. Vivamus pulvinar ut mauris et fermentum. Phasellus mattis neque suscipit ante tempor, sed volutpat erat elementum. Cras sed malesuada ex, quis tempor purus.
 
 Nulla volutpat hendrerit placerat. Aenean in est vitae erat lacinia tincidunt tincidunt ac leo. Quisque mollis sollicitudin ultricies. Nunc eget dui vitae augue porta porttitor ut ac lorem. Mauris consectetur dui urna, ac pretium nunc mattis dapibus. Quisque sit amet metus ut enim molestie suscipit. Curabitur convallis massa turpis, vitae ultrices nisl tempus sed. Sed imperdiet dapibus lobortis. Ut nisl augue, maximus interdum mollis ac, congue ac est.
+
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 477px; height: 369px;' src='https://voyant-tools.org/tool/Trends/?query=cultural*&query=culture*&corpus=29cd71f10208781d5646b886714d60fe'></iframe>
