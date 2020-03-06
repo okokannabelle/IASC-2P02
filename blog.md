@@ -1,4 +1,4 @@
-# Prompt 
+## Prompt 
 
 Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to
 represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, etc.). Moving between written and visual mediums of expression offers a model for the next generation of digital
