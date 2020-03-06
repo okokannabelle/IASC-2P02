@@ -1,3 +1,5 @@
+# Prompt 
+
 Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to
 represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, etc.). Moving between written and visual mediums of expression offers a model for the next generation of digital
 humanities scholarship, where readers are asked to think critically across both textual and graphical
@@ -6,7 +8,7 @@ where readers interpret both the text and any other media (such as graphs, image
 on). Creating scholarship that asks readers to interpret across multiple modes will distinguish digital
 humanities scholarship from scholarship in the sciences.
 
-
+## Blog Post
 Suspendisse elit dolor, euismod at urna interdum, facilisis tempor lectus. In laoreet magna feugiat dui auctor molestie. Aliquam egestas enim et ligula placerat, vitae gravida purus consectetur. Aliquam at turpis metus. Integer quam ligula, malesuada nec faucibus sed, finibus vel arcu. Morbi in tortor vel velit dictum vulputate eget sodales magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam blandit accumsan pulvinar. Maecenas sed urna ac risus placerat mattis et vehicula leo. Vestibulum ac consectetur mauris, non lobortis quam. Maecenas nulla elit, aliquam in tellus sed, convallis iaculis ipsum.
 
 Vivamus viverra enim elit, ut dapibus arcu imperdiet quis. Sed molestie magna vel nunc suscipit consequat. Donec rutrum augue et viverra mollis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec finibus, sem eu facilisis ultricies, elit orci viverra nibh, dapibus facilisis arcu risus non nisl. Integer finibus, massa non cursus suscipit, diam leo tincidunt velit, dignissim congue lectus metus eu massa. Ut accumsan elit molestie arcu dictum, ut commodo erat dictum. Pellentesque a porttitor lectus. Ut molestie bibendum nibh luctus dapibus.
